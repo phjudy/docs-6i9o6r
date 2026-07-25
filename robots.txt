@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-wacr6d.pulaucuansite.cfd/sitemap.xml
